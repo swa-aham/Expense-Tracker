@@ -1,0 +1,17 @@
+Date,Amount,Type,Category,Description
+2025-05-01,5000.00,INCOME,SALARY,Monthly Salary
+2025-05-02,100.50,EXPENSE,FOOD,Grocery shopping
+2025-05-05,200.00,EXPENSE,ENTERTAINMENT,Movie tickets and dinner
+2025-05-07,50.00,EXPENSE,TRAVEL,Uber to airport
+2025-05-10,1500.00,EXPENSE,RENT,Monthly rent payment
+2025-05-12,75.30,EXPENSE,UTILITIES,Electricity bill
+2025-05-15,2000.00,INCOME,BUSINESS,Freelance project payment
+2025-05-18,120.75,EXPENSE,FOOD,Restaurant dinner
+2025-05-20,45.00,EXPENSE,ENTERTAINMENT,Streaming subscriptions
+2025-05-25,300.00,EXPENSE,TRAVEL,Train tickets for weekend trip
+2025-05-28,500.00,INCOME,OTHER_INCOME,Gift from parents
+2025-04-01,5000.00,INCOME,SALARY,Monthly Salary
+2025-04-05,1500.00,EXPENSE,RENT,Monthly rent payment
+2025-04-10,800.00,INCOME,BUSINESS,Side project payment
+2025-04-15,250.00,EXPENSE,UTILITIES,Internet and electricity
+2025-04-20,180.50,EXPENSE,FOOD,Weekly groceries
